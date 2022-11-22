@@ -98,10 +98,10 @@ body {
     display: inline-block;
     vertical-align: top;
     width: 60%; }
-.container .main {
+main {
   position: relative;
   margin-left: 22rem;
-  background: #fff;
+  background: white;
   border-radius: 5px;
   box-shadow: 0 5px 20px #bbb;
   box-sizing: border-box;
